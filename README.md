@@ -1,0 +1,2 @@
+# shitcardgame
+Hearthstone wannabe
