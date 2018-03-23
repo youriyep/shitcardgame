@@ -1,2 +1,2 @@
-# shitcardgame
-Hearthstone wannabe
+# shitchessgame
+Chess wannabe
